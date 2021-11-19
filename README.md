@@ -2,7 +2,7 @@
 🎯LGMVIP-WebDev
 <h1>Web-developemnt intern at  Letsgrowmore (Tasks)</h1>
 <p>
-Hi, there i am  kKsani Nikhil kumar web development intern at LetsGrowMore.
+Hi, there i am  Kesani Nikhil kumar web development intern at LetsGrowMore.
 This repository  contains all  task  which  i accomplish in this internship.
 </p>
 
